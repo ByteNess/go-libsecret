@@ -1,6 +1,6 @@
 module github.com/byteness/go-libsecret
 
-go 1.25
+go 1.26
 
 require github.com/godbus/dbus/v5 v5.2.3
 
